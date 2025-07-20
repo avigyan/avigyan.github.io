@@ -60,7 +60,7 @@ Awards and Achievements
 * Ranked among the top 0.005% (All India Rank) in IIT JEE 2009 and top 0.004% (All India Rank) in AIEEE 2009
 * 1st (Eastern India) in National Level Talent Search Examination, 11/2006
 * 97.17 percentile in 8th National Science Olympiad, 01/2006
-* Gold Medal for securing Highest Marks (Science) in International Assessment for Indian Schools, 2005 (by the University of New South Wales, Australia, and Macmillan Publishers Ltd.) and Distinctionin English
+* Gold Medal for securing Highest Marks (Science) in International Assessment for Indian Schools, 2005 (by the University of New South Wales, Australia, and Macmillan Publishers Ltd.) and Distinction in English
 
 
 
