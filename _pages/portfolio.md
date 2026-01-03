@@ -13,7 +13,7 @@ author_profile: true
 {% endfor %}
 -->
 
-### 1. Multimodal Blood FLow Velocity wave cycle classification with explanation of decisions
+### 1. Multimodal Blood Flow Velocity wave cycle classification with explanation of decisions
 <p style="text-align: justify;">
 This project takes a multimodal deep learning approach to classify ocular Blood Flow Velocity (BFV) wave cycles (corresponding to each cardiac cycle) into "Acceptable" (i.e., suitable for further analysis in diagnostics) or "Noisy" (i.e., to be discarded) by using a combination of corresponding 2D retinal Laser speckle contrast image (LSCI) sequences and 1D blood flow velocity wave cycles as inputs. The prediction output of the multimodal deep learning model can be explained (to ensure its trustworthiness) with respect to each input modality, using Gradient-weighted Class Activation Mapping (Grad-CAM), which creates a heatmap to show which parts of each input are most important for the deep learning model's decision.
 </p>
