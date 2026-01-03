@@ -6,10 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<a href="../files/AvigyanSinha_CV_2025.pdf" Download> <img src="../images/pdf.jpg" alt="Download" width="30" height="30">Download</a>
+<a href="../files/AvigyanSinha_CV.pdf" Download> <img src="../images/pdf.jpg" alt="Download" width="30" height="30">Download</a>
 
 <!---
-[![Download](../images/pdf.jpg)](../files/AvigyanSinha_CV_2025.pdf)
+[![Download](../images/pdf.jpg)](../files/AvigyanSinha_CV.pdf)
 -->
 
 Education
