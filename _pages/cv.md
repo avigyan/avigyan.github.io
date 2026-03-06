@@ -46,7 +46,7 @@ Skills
 
 Awards and Achievements
 ---------------
-* Reviewer of the Investigative Ophthalmology & Visual Science (IOVS), Journal of International Research in Medical and Pharmaceutical Sciences, Journal of Imaging Informatics in Medicine (Springer Nature) and Journal of Pharmaceutical Research International in 2025
+* Reviewer of the Scientific Reports (Springer Nature) in 2026, and Investigative Ophthalmology & Visual Science (IOVS), Journal of International Research in Medical and Pharmaceutical Sciences, Journal of Imaging Informatics in Medicine (Springer Nature), and Journal of Pharmaceutical Research International in 2025
 * Subject Matter Expert in Advanced Math at Chegg India Pvt. Ltd., 10/2020 – 12/2022
 * 1 lakh INR (Indian Rupees) scholarship in Advanced Program in Digital Health and Imaging, 08/2020 by the Indian Institute of Science (IISc), Bangalore
 * Semi-Finalist in Code Gladiators 06/2020 in India
@@ -60,7 +60,7 @@ Awards and Achievements
 * Dr. Ambedkar National Merit Award for Meritorious Students of Higher Secondary School Examination, 2009, by the Ministry of Social Justice and Empowerment, Government of India
 * Ranked among the top 0.005% (All India Rank) in IIT JEE 2009 and top 0.004% (All India Rank) in AIEEE 2009
 * 1st (Eastern India) in National Level Talent Search Examination, 11/2006
-* 97.17 percentile in 8th National Science Olympiad, 01/2006
+* 97.17th percentile in 8th National Science Olympiad, 01/2006
 * Gold Medal for securing Highest Marks (Science) in International Assessment for Indian Schools, 2005 (by the University of New South Wales, Australia, and Macmillan Publishers Ltd.) and Distinction in English
 
 
